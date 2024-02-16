@@ -465,3 +465,51 @@ A.</p></li>
 </ul>
 </body>
 </html>
+
+The application consists of the following classes:
+Class Patient has 5 attributes of a Patient object:
+Private variable patientID of type integer, holds the patient ID
+Private variable firstName of type String, holds the patient’s first name
+Private variable lastName of type String, holds the patient’s last name
+Private variable patientAge of type integer, holds the patient’s age
+Private variable patientAllergy of type String, holds the patient’s allergy type
+1 constructor that takes in 5 parameters of type int, String, String, int, String respectively
+1 toString() method to print out all patient’s information
+Setters and getters for all variables
+Class Allergy has:
+2 attributes of an Allergy object:
+Private AllergyID of type integer, holds the allergy ID
+Private allergyName of type String, holds the allergy name
+1 constructor that takes in 2 parameters of type int, String respectively
+Setters and getters for all variables
+Class Vaccine  has 1 attribute of a Vaccine object:
+Private vaccineType of type String, holds the recommended vaccine for the allergy type
+1 constructor that takes in 1 parameter of type String
+1 toString() method to print out all vaccine’s information
+Setters and getters for all variables
+Class Date has:
+3 attributes of a Date object:
+Variable date of type LocalDate, holds the date
+Variable formatter of type DateTimeFormatter, holds the date format
+Variable dateInput of type String, holds the text string to be parsed
+1 constructor that takes in 1 parameter of type String. The constructor allows us to create a Date object by: 
+Set attribute dateInput to the local variable of type String
+Pre-define 2 date formats for demonstration purpose : dd/MM/yyyy and dd-MM-yyyy
+Parse dateInput  using LocalDate.parse() and set it to date
+1 toString() method to print out the date 
+Class Record  has:
+4 attributes of a Record object:
+Variable p of type Patient, holds all patient’s information
+Variable recommendedVaccine of type String, holds the patient’s recommended vaccine
+Variable date  of type Date, holds the date that the patient receives their vaccine
+1 constructor that takes in 3 parameters of type Patient, String, Date respectively.
+1 toString() method to print out all vaccine’s information
+Class View  to store the main methods and other logics:
+8 attributes:
+ArrayList allergyList of type Allergy, holds a list of allergy type
+ArrayList vaccineList of type Vaccine, holds a list of vaccine name
+HashMap recVaxForAllergyTable with allergy types (type Allergy) as key and their recommended vaccine (type Vaccine) as value
+ArrayList patientList of type Patient, holds a list of patient information 
+ArrayList hospitalRecord of type Record, holds a list of records
+HashMap allergyCount with allergy types (type Allergy) as key and total number of patients that have the allergy (type Integer) as value 
+
