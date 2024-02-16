@@ -168,7 +168,7 @@ given below.</p>
 date) based on initial check-up in an appropriate data structure. Sample
 data is provided in Table 1.</p></li>
 </ol>
-<blockquote>
+
 <p>Store sample data on the different allergies and recommended vaccine
 types in an appropriate data structure. Sample data is provided in Table
 2.</p>
@@ -176,7 +176,7 @@ types in an appropriate data structure. Sample data is provided in Table
 each vaccination type, as given in Table 3 below.</p>
 <p><strong>Table 3:</strong> <mark>Vaccine type given to
 patients</mark></p>
-</blockquote>
+
 <table>
 <colgroup>
 <col style="width: 6%" />
@@ -201,10 +201,10 @@ patients</mark></p>
 </tr>
 </tbody>
 </table>
-<blockquote>
+
 <p>3. Take user input then sort all patients by last name who were given
 the AstraZeneca/Pfizer vaccine. A sample output is shown in Table 4.</p>
-</blockquote>
+
 <p>Sample - user input:</p>
 <table>
 <colgroup>
@@ -259,12 +259,12 @@ patients</mark></p>
 </tr>
 </tbody>
 </table>
-<blockquote>
+
 <p>4. Give preference to patients based on age who are waiting for their
 next vaccination based on Table 1. A sample output is provided in Table
 5.</p>
 <p><strong>Table 5:</strong> Next vaccination appointment</p>
-</blockquote>
+
 <table>
 <colgroup>
 <col style="width: 11%" />
@@ -341,11 +341,11 @@ next vaccination based on Table 1. A sample output is provided in Table
 </tr>
 </tbody>
 </table>
-<blockquote>
+
 <p>5. Count the number of patients given for each allergy type based on
 Table 2. A sample output is provided in Table 6.</p>
 <p><strong>Table 6:</strong> Patient count based on allergy type</p>
-</blockquote>
+
 <table>
 <colgroup>
 <col style="width: 44%" />
@@ -370,10 +370,10 @@ Table 2. A sample output is provided in Table 6.</p>
 </tr>
 </tbody>
 </table>
-<blockquote>
+
 <p>6. Search, identify and list those patients who have completed three
 doses of vaccine as given in Table 7.</p>
-</blockquote>
+
 <p><strong>Table 7:</strong> Sample patient data – completed vaccine
 doses</p>
 <table>
