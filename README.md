@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
-
+<h1>
+<p>COM00141M</p>
+<p>Department of Computer Science</p>
+<p><strong>ALGORITHMS AND DATA STRUCTURES</strong></p>
+</h1>
+<p><img src="media/image1.jpg" style="width:4.13403in" />EXAMINATION
+PRE-WORK</p>
 <h1 id="assessment-backgroundscenario">Assessment
 Background/Scenario</h1>
 <p>A private hospital needs an application to manage <span
