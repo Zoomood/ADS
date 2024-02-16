@@ -1,6 +1,6 @@
 /**
  * Creates a Date object
- * @author fnv512
+ * @author dungtruong
  * @param dateInput holds the text string to be parsed
  * @param formatter holds the date format
  * @param date holds the date
