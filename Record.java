@@ -1,6 +1,6 @@
 /**
  * Create a Record object
- * @author fnv512
+ * @author dungtruong
  * @param p of type Patient holds all patient's information
  * @param recommendedVaccine holds the patient’s recommended vaccine
  * @param date of type Date holds the date that the patient receives their vaccine
