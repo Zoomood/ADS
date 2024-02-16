@@ -1,6 +1,6 @@
 /**
  * Displays main menu, take user's input as selection
- * @author fnv512
+ * @author dungtruong
  * 
  */
 import java.util.*;
