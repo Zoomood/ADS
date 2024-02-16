@@ -1,6 +1,6 @@
 /**
  * Creates a patient object
- * @author fnv512
+ * @author dungtruong
  * @param patientID holds the patient ID
  * @param patientAge holds the patient’s age
  * @param firstName holds the patient’s first name
