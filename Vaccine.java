@@ -1,6 +1,6 @@
 /**
  * Creates a Vaccine object
- * @author fnv512
+ * @author dungtruong
  * @param vaccine ID holds the vaccine ID
  * @param allergyType holds the allergy name
  * @param vaccineType holds the recommended vaccine for the allergy type
